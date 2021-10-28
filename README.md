@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chengjie-Hunag
+- 👋 Hi, I’m @Chengjie-Huang
 - 👀 I’m interested in rpc frameworks, operating system, distributed system and machine learning.
 - 🌱 I’m currently learning Android development and 3D computer graphics.
 - 📫 How to reach me --> feel free to email me chuang44@sheffield.ac.uk
